@@ -11,11 +11,11 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://tuya.github.io',
-  baseUrl: '/agentic-kit/',
+  url: 'https://sedawwk.github.io',
+  baseUrl: '/myprivaterepo/',
 
-  organizationName: 'tuya',
-  projectName: 'agentic-kit',
+  organizationName: 'sedawwk',
+  projectName: 'myprivaterepo',
 
   onBrokenLinks: 'throw',
 
