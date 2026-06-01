@@ -11,8 +11,8 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://agentic-kit.tuya.com/',
-  baseUrl: '/',
+  url: 'https://sedawwk.github.io',
+  baseUrl: '/myprivaterepo/',
 
   organizationName: 'sedawwk',
   projectName: 'myprivaterepo',
